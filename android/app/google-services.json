@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "916092550411",
+    "firebase_url": "https://final-base-99d49-default-rtdb.firebaseio.com",
+    "project_id": "final-base-99d49",
+    "storage_bucket": "final-base-99d49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916092550411:android:c1926d71cf5c37e2ae360e",
+        "android_client_info": {
+          "package_name": "com.edenlife.eden_life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGCdfUFXXX3MZ1Ep61Vp8n40Kxg_WIwjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
